@@ -1,0 +1,18 @@
+# Data: Kaggle competition files are not redistributed
+data/*
+!data/README.md
+*.csv
+*.zip
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor
+.DS_Store
+.vscode/
